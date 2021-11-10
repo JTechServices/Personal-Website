@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(../images/stars.jpg);
+}
+
+h1 {
+    padding-top: 25px;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+h3 {
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+main p {
+    width: auto;
+    padding-left: 15px;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-container {
+    text-align: center;
+    padding-right: 30px;
+    transform: translateY(900%);
+    color: #fff;
+}
+
+hr {
+    margin-top: 10px;
+    width: auto;
+    background-color: b#fff;
+}

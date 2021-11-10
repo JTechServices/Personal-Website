@@ -1,0 +1,94 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url(../images/stars.jpg);
+}
+
+h1 {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 40px;
+    color: #fff;
+}
+
+h3 {
+    transform: translateY(400%);
+    padding-left: 15px;
+}
+
+.fa-icon {
+    color: #301934;
+}
+
+
+
+.col-md-7 {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+.form-control {
+    margin-top: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+      /* float:left; */
+    width: 100%;
+    display: inline-block;
+    text-align: justify;
+    border: solid 2px;
+    background-color: #333;
+}
+
+.form-controle {
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* float:left; */
+    width: 100%;
+    display: inline-block;
+    text-align: justify;
+    border: solid 2px;
+    background-color: #333;
+}
+
+.btn {
+    padding-top: 10px;
+    padding-right: 40px;
+    color: #fff;
+    background: #000058;
+    float: left;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    box-shadow: 0px 0px 4px 0px #00000087;
+    margin: 10px 0;
+    width: 10%;
+}
+
+div.tel {
+    padding-top: 145px;
+    padding-left: 10px;
+}
+
+hr {
+    height: 1px;
+    background-color: #fff;
+    padding-top: 2px;
+    width: auto;
+}
+
+
+.footer-container {
+    text-align: center;
+    padding-bottom: 30px;
+    transform: translateY(200%);
+    color: #fff;
+}

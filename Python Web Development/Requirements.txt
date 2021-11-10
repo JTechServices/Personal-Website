@@ -1,0 +1,9 @@
+
+pip install speechrecognition
+pip install pyttsx3
+pip install pywhatkit
+pip install datetime
+pip install wikipedia
+pip install pyjokes
+pip install pyaudio
+
